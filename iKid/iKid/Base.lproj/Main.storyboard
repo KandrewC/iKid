@@ -15,7 +15,7 @@
                         <viewControllerLayoutGuide type="bottom" id="p8M-B0-Nkp"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="IDR-nj-K3k">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LVM-dj-UOF">
@@ -26,42 +26,42 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="A wife asks her husband, a software engineer, " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cSi-qA-t3B">
-                                <frame key="frameInset" minX="3.87%" minY="21.47%" width="600.24%" height="2.85%"/>
+                                <frame key="frameInset" minX="3.87%" minY="21.44%" width="600.27%" height="2.85%"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="“Could you please go shopping for me and buy one carton of milk, and " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="QaW-52-TTM">
-                                <frame key="frameInset" minX="3.87%" minY="28.26%" width="82.85%" height="2.85%"/>
+                                <frame key="frameInset" minX="3.87%" minY="28.26%" width="82.80%" height="2.85%"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="if they have eggs, get 6!” A short time later" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="COJ-km-O9w">
-                                <frame key="frameInset" minX="3.87%" minY="35.19%" width="82.85%" height="2.85%"/>
+                                <frame key="frameInset" minX="3.87%" minY="35.16%" width="82.80%" height="2.92%"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text=" the husband comes back with 6 cartons of" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NpY-hq-Cjt">
-                                <frame key="frameInset" minX="3.87%" minY="41.85%" width="86.72%" height="2.85%"/>
+                                <frame key="frameInset" minX="3.87%" minY="41.83%" width="86.67%" height="2.85%"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text=" milk. The wife asks him, “Why the hell did you " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="OYb-C1-3CG">
-                                <frame key="frameInset" minX="3.87%" minY="48.10%" width="183.33%" height="2.85%"/>
+                                <frame key="frameInset" minX="3.87%" minY="48.13%" width="183.33%" height="2.85%"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="buy 6 cartons of milk?” " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="uwE-ov-8kH">
-                                <frame key="frameInset" minX="3.87%" minY="53.94%" width="83.33%" height="2.85%"/>
+                                <frame key="frameInset" minX="3.87%" minY="53.97%" width="83.33%" height="2.85%"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
@@ -76,7 +76,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="adl-t7-REY">
-                                <frame key="frameInset" minX="20.29%" minY="65.62%" width="59.42%" height="2.04%"/>
+                                <frame key="frameInset" minX="20.27%" minY="65.59%" width="59.47%" height="2.10%"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="What did he say?"/>
                                 <connections>
@@ -101,7 +101,7 @@
                         <viewControllerLayoutGuide type="bottom" id="L3k-KD-scO"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="xA8-NL-CME">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="He replied, “They had eggs.”" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Gga-W5-l7a">
@@ -136,7 +136,7 @@
                         <viewControllerLayoutGuide type="bottom" id="t3V-m1-fbC"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="LS1-R1-XCr">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ZLB-73-E3n">
@@ -147,7 +147,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" usesAttributedText="YES" lineBreakMode="characterWrap" numberOfLines="5" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="WbQ-Ci-C3y">
-                                <frame key="frameInset" minX="13.77%" minY="28.67%" width="73.19%" height="6.93%"/>
+                                <frame key="frameInset" minX="13.73%" minY="28.64%" width="73.20%" height="6.97%"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <attributedString key="attributedText">
                                     <fragment>
@@ -169,7 +169,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" usesAttributedText="YES" lineBreakMode="characterWrap" numberOfLines="5" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="G5n-h0-slE">
-                                <frame key="frameInset" minX="19.81%" minY="36.69%" width="57.97%" height="7.34%"/>
+                                <frame key="frameInset" minX="19.87%" minY="36.66%" width="57.87%" height="7.35%"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <attributedString key="attributedText">
                                     <fragment>
@@ -223,18 +223,18 @@
                         <viewControllerLayoutGuide type="bottom" id="ZMi-ae-rQZ"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="IMC-fZ-5Bv">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Select your type of joke down below" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="w7d-VR-R3u">
-                                <frame key="frameInset" minX="16.67%" minY="48.64%" width="66.67%" height="2.85%"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Welcome to iKid! A joke app  with a tab bar" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="D18-gx-CYk">
+                                <frame key="frameInset" minX="4.27%" minY="22.19%" width="103.73%" height="15.59%"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Welcome to iKid! A joke app  with a tab bar" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="D18-gx-CYk">
-                                <frame key="frameInset" minX="10.63%" minY="22.15%" width="78.74%" height="2.85%"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Select your type of joke down below" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="w7d-VR-R3u">
+                                <frame key="frameInset" minX="8.53%" minY="48.58%" width="91.47%" height="2.85%"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
@@ -248,7 +248,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="bql-o7-eic" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-795.6521739130435" y="-102.71739130434783"/>
+            <point key="canvasLocation" x="-796" y="-102.99850074962519"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="bik-x4-i9S">
@@ -259,7 +259,7 @@
                         <viewControllerLayoutGuide type="bottom" id="uHW-bo-Xtk"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="aEY-Qb-SY4">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Nobody Nose!" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Lkc-Yr-20D">
@@ -298,7 +298,7 @@
                         <viewControllerLayoutGuide type="bottom" id="EpD-Zs-9De"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="DpL-Jd-7HV">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gH5-27-Ntm">
@@ -310,11 +310,11 @@
                                 </connections>
                             </button>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="KnockKnock" translatesAutoresizingMaskIntoConstraints="NO" id="d6Z-qZ-N3o">
-                                <frame key="frameInset" minX="20.29%" minY="17.12%" width="65.58%" height="51.43%"/>
+                                <frame key="frameInset" minX="20.27%" minY="17.09%" width="65.60%" height="51.42%"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                             </imageView>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6O1-Y0-60q">
-                                <frame key="frameInset" minX="33.33%" minY="69.57%" width="39.13%" height="12.50%"/>
+                                <frame key="frameInset" minX="33.33%" minY="69.57%" width="39.07%" height="12.52%"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Who's there"/>
                                 <connections>
@@ -339,11 +339,11 @@
                         <viewControllerLayoutGuide type="bottom" id="nyg-CQ-jLL"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="QDb-aU-p6p">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="right" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" usesAttributedText="YES" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="YJw-lp-hC9">
-                                <frame key="frameInset" minX="40.34%" minY="6.11%" width="34.54%" height="11.69%"/>
+                                <frame key="frameInset" minX="40.40%" minY="6.15%" width="34.53%" height="11.62%"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <attributedString key="attributedText">
                                     <fragment content="Daisy">
@@ -355,7 +355,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bi2-qt-N8D">
-                                <frame key="frameInset" minX="40.34%" minY="73.78%" width="19.44%" height="3.94%"/>
+                                <frame key="frameInset" minX="40.40%" minY="73.76%" width="19.33%" height="3.97%"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Daisy Who?"/>
                                 <connections>
@@ -363,7 +363,7 @@
                                 </connections>
                             </button>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Daisy" translatesAutoresizingMaskIntoConstraints="NO" id="a4e-RU-UyZ">
-                                <frame key="frameInset" minX="16.55%" minY="21.06%" width="66.67%" height="42.39%"/>
+                                <frame key="frameInset" minX="16.53%" minY="21.06%" width="66.67%" height="42.35%"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                             </imageView>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="C4Z-rb-wYQ">
@@ -391,7 +391,7 @@
                         <viewControllerLayoutGuide type="bottom" id="mIM-f9-Wtt"/>
                     </layoutGuides>
                     <view key="view" contentMode="scaleToFill" id="bUj-ox-WO6">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="CK1-pE-viO">
@@ -403,7 +403,7 @@
                                 </connections>
                             </button>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Driving" translatesAutoresizingMaskIntoConstraints="NO" id="FGT-v2-D8w">
-                                <frame key="frameInset" minX="5.44%" minY="32.61%" width="88.53%" height="34.58%"/>
+                                <frame key="frameInset" minX="5.47%" minY="32.61%" width="88.53%" height="34.56%"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMinX="YES" widthSizable="YES" flexibleMaxX="YES" flexibleMinY="YES" heightSizable="YES" flexibleMaxY="YES"/>
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Daisy me rollin they hatin" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="e1a-mp-aae">
@@ -448,6 +448,6 @@
         <image name="KnockKnock" width="140" height="160"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="fUy-I9-1fK"/>
+        <segue reference="NOo-ES-xbM"/>
     </inferredMetricsTieBreakers>
 </document>
